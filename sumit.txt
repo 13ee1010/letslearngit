@@ -1,6 +1,0 @@
-helo
-multiply
-
-hello 
-
-gigig
